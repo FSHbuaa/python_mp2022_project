@@ -1,0 +1,2 @@
+filter(lambda x:'.jpg' in x,path_generator)
+ r"F:\现代程序设计技术\week9 faces"
